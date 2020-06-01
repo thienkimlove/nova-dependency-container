@@ -1,8 +1,8 @@
 <?php
 
-namespace Epartment\NovaDependencyContainer\Http\Requests;
+namespace Thienkimlove\NovaDependencyContainer\Http\Requests;
 
-use Epartment\NovaDependencyContainer\HasDependencies;
+use Thienkimlove\NovaDependencyContainer\HasDependencies;
 use Laravel\Nova\Http\Requests\ActionRequest as NovaActionRequest;
 
 class ActionRequest extends NovaActionRequest {

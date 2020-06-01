@@ -1,6 +1,6 @@
 <?php
 
-namespace Epartment\NovaDependencyContainer;
+namespace Thienkimlove\NovaDependencyContainer;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Str;
